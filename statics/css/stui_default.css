@@ -9,7 +9,7 @@ body{ padding-top: 80px}
 
 /* header-logo */
 .stui-header__logo,.stui-header__menu{float:left}
-.stui-header__logo{margin-top: 0}
+.stui-header__logo{margin-top: 5px}
 .stui-header__logo .logo{ display:block; width:150px; height:50px; background:url(/logo.png) no-repeat; background-position:50% 50%; background-size:cover}/*网站logo(尺寸：150x50px)*/
 
 /* header-menu */
